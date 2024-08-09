@@ -1,0 +1,6 @@
+[submodule "gun-app"]
+	path = gun-app
+	url = https://github.com/quatch1247/JMM_PRIVATE.git
+[submodule "JMM"]
+	path = JMM
+	url = https://github.com/quatch1247/JMM_PRIVATE.git
